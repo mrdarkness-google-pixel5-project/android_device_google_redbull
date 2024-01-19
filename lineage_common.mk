@@ -5,4 +5,4 @@
 #
 
 # Lineage Health
-include hardware/google/pixel/lineage_health/device.mk
+# include hardware/google/pixel/lineage_health/device.mk
